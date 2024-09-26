@@ -111,6 +111,8 @@ $ npm run dev
 
 O Shell estará disponível em http://localhost:5173
 
+Abra o link http://localhost:5173 no seu navegador e você verá os 2 microfrontends sendo orquestrados pelo shell
+
 O Shell carrega dinamicamente os micro-frontends através da Module Federation. As URLs dos micro-frontends são configuradas no arquivo de configuração vite.config.ts do host.
 
 ```javascript
