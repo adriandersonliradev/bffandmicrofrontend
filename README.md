@@ -85,8 +85,8 @@ O microfrontend-app1 estará disponível em [http://localhost:4173](http://local
 Obs.: analise se está rodando na porta :4173, caso não esteja rodando na porta 4173 você terá que mudar a porta no shell
 
 ### 2. Execute o microfrontend-app2:
-
-Vá até a pasta raiz do projeto e execute os seguintes comandos:
+- Abra outro terminal
+- Vá até a pasta raiz do projeto e execute os seguintes comandos:
 
 ```bash
 $ cd microfrontend-app2
@@ -100,7 +100,8 @@ Obs.: analise se está rodando na porta :4174, caso não esteja rodando na porta
 
 ### 3. Execute o shell:
 
-Agora, vá até o diretório do Host e execute-o para orquestrar os micro-frontends:
+- Abra outro terminal
+- Agora, vá até o diretório do Host e execute-o para orquestrar os micro-frontends:
 
 ```bash
 $ cd shell
